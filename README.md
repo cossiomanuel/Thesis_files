@@ -40,7 +40,7 @@ This notebook provides the code to:
 This notebook provides the code to:
 * Data augmentation
 * Outlier extraction
-* Trasnfer learning architectures
+* Transfer learning architectures
 * Explainability 
   * Automatic feature extraction
   * Gradient-Weighted Class Activation Mapping (Grad-CAM)
