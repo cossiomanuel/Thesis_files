@@ -17,7 +17,7 @@ This notebook provides the code for the data exploratory analysis.
 
 ### Classification with hand-crafted features and shallow classifiers
 
-[Hand-crafted features classification](https://github.com/cossiomanuel/Thesis_files/blob/main/Classification_hand_crafted.ipynb)
+[Hand-crafted features classification notebook](https://github.com/cossiomanuel/Thesis_files/blob/main/Classification_hand_crafted.ipynb)
 
 This notebook provides the code to:
 * Produce the handcrafted features
