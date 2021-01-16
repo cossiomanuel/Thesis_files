@@ -34,3 +34,6 @@ This notebook provides the code to:
 
 ### Consulted resources
 [Complete beginner's guide](https://www.kaggle.com/gomezp/complete-beginner-s-guide-eda-keras-lb-0-93)
+[CNN Nasnet Mobile](https://www.kaggle.com/CVxTz/cnn-starter-nasnet-mobile-0-9709-lb)
+[Baseline Keras CNN - ROC - FAST](https://www.kaggle.com/fmarazzi/baseline-keras-cnn-roc-fast-10min-0-925-lb)
+[ML pipeline](https://www.kaggle.com/qitvision/a-complete-ml-pipeline-fast-ai)
