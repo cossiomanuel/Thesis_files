@@ -9,13 +9,13 @@ It's necessary to download the dataset and make it available in the Google Drive
 [Dataset SNL](https://drive.google.com/file/d/1psav3-ACuMjTVkvqXQBic8XtSV6YilcY/view?usp=sharing)
 
 ## Sections
-### Data exploratory analysis
+### 1. Data exploratory analysis
 
 [Data exploratory analysis notebook](https://github.com/cossiomanuel/Thesis_files/blob/main/Data_analysis.ipynb)
 
 This notebook provides the code for the data exploratory analysis. 
 
-### Classification with hand-crafted features and shallow classifiers
+### 2. Classification with hand-crafted features and shallow classifiers
 
 [Hand-crafted features classification notebook](https://github.com/cossiomanuel/Thesis_files/blob/main/Classification_hand_crafted.ipynb)
 
@@ -28,7 +28,9 @@ This notebook provides the code to:
   * Stochastic Gradiend Descent
 * Classify with non-linear classifiers
   * Random Forest Regressor
-  
+
+### 3. Classification with Deep Learning
+
 [Deep Leaning classification notebook](https://github.com/cossiomanuel/Thesis_files/blob/main/Deep_learning_classification.ipynb)
   
 This notebook provides the code to:
@@ -38,7 +40,6 @@ This notebook provides the code to:
 * Explainability 
   * Automatic feature extraction
   * Gradient-Weighted Class Activation Mapping (Grad-CAM)
-
 
 
 
