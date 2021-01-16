@@ -21,13 +21,13 @@ This notebook provides the code for the data exploratory analysis.
 
 This notebook provides the code to:
 * Produce the handcrafted features
-** Color histograms
-** Mean brightness
+..* Color histograms
+..* Mean brightness
 * Classify with linear classifiers
-** Support Vector Classifier
-** Stochastic Gradiend Descent
+..* Support Vector Classifier
+..* Stochastic Gradiend Descent
 * Classify with non-linear classifiers
-** Random Forest Regressor
+..* Random Forest Regressor
 
 
 
