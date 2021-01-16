@@ -29,15 +29,15 @@ This notebook provides the code to:
 * Classify with non-linear classifiers
   * Random Forest Regressor
   
-  [Deep Leaning classification notebook](https://github.com/cossiomanuel/Thesis_files/blob/main/Deep_learning_classification.ipynb)
+[Deep Leaning classification notebook](https://github.com/cossiomanuel/Thesis_files/blob/main/Deep_learning_classification.ipynb)
   
-  This notebook provides the code to:
-  * Data augmentation
-  * Outlier extraction
-  * Trasnfer learning architectures
-  * Explainability 
-   * Automatic feature extraction
-   * Gradient-Weighted Class Activation Mapping (Grad-CAM)
+This notebook provides the code to:
+* Data augmentation
+* Outlier extraction
+* Trasnfer learning architectures
+* Explainability 
+  * Automatic feature extraction
+  * Gradient-Weighted Class Activation Mapping (Grad-CAM)
 
 
 
